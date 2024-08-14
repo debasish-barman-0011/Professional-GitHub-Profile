@@ -1,6 +1,6 @@
 <!-- Replace Following Banner Image URL by Your Own Banner Image URL -->
 
-![logo](https://github.com/debasish-barman-0011/debasish-barman-0011/blob/main/Debasish%20Barman.png)
+![logo](https://github.com/debasish-barman-0011/Professional-GitHub-Profile/blob/main/Demo-Profile/myBanner.png)
 
 <!-- Change The Name with Your Name -->
 <h1 align="center">Namaste, I'm DEBASISH BARMAN</h1>
